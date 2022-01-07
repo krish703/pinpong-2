@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+
+h1{
+    line-height: 3px;
+}
+
+#copy_right_footer{
+    line-height:3px; 
+    bottom:0;
+}
